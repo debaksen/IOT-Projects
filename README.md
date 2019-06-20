@@ -1,7 +1,7 @@
 # Internet of Things Projects
   This repository contains all the projects that i have worked on. The projects includes the use of 
   several Microcontrollers like Arduino, Node MCU and also Single board computers i.e those which
-  are neither Microcontroller nor Microprocessor like Raspberry Pi for and they helped me to get 
+  are neither Microcontroller nor Microprocessor like Raspberry Pi and they helped me to get 
   a major experience in the field of IOT.
 
 ### Disclaimer
